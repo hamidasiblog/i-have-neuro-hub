@@ -10,9 +10,9 @@
 
 ## Status / いまの状態
 
-Work in progress. The repository holds only a placeholder [SKILL.md](SKILL.md). The presets will be added later.
+Work in progress. [SKILL.md](SKILL.md) holds one trial preset, [preset-1-light](docs/presets/preset-1-light.md). It has not been tested yet. The design notes are in [docs/](docs/).
 
-作りかけです。いまあるのはプレースホルダの [SKILL.md](SKILL.md) だけです。プリセットはあとで入れます。
+作りかけです。[SKILL.md](SKILL.md) には、試しのプリセット [preset-1-light](docs/presets/preset-1-light.md) が1つ入っています。まだ動かして試していません。設計のメモは [docs/](docs/) にあります。
 
 ## What it is / これは何か
 
